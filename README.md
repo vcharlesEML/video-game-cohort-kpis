@@ -1,4 +1,4 @@
-# mobile-games-cohort-kpis
+# Mobile video game cohort KPIs
 SQL computed cohort KPIs from raw data generated during a week by a game that has been launched in beta test w/ PostgreSQL 
 
 ## First look at the data
